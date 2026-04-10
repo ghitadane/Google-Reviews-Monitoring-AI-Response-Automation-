@@ -1,0 +1,63 @@
+{
+  "name": "GoogleReviewsMonitor",
+  "projectId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "description": "Automated Google Reviews Monitoring & Response System powered by Claude AI. Fetches new reviews, analyzes sentiment, generates professional replies, routes negative reviews for human approval, and logs everything to Google Sheets.",
+  "main": "Main.cs",
+  "dependencies": {
+    "Newtonsoft.Json": "[13.0.3]",
+    "System.Net.Http": "[4.3.4]",
+    "UiPath.CodedWorkflows": "[24.10.2]",
+    "UiPath.Mail.Activities": "[1.23.0]",
+    "UiPath.System.Activities": "[24.10.0]",
+    "UiPath.UIAutomation.Activities": "[24.10.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "26.0.187",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": false,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*",
+      "Secret:*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "CSharp",
+  "entryPoints": [
+    {
+      "filePath": "Main.cs",
+      "uniqueId": "5759d710-8030-4e26-beb3-00ce1679ab5f",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

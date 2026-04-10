@@ -1,0 +1,6 @@
+{
+  "Name": "GoogleReviewsMonitor",
+  "ProjectType": "Process",
+  "Description": "Automated Google Reviews Monitoring & Response System powered by Claude AI. Fetches new reviews, analyzes sentiment, generates professional replies, routes negative reviews for human approval, and logs everything to Google Sheets.",
+  "MainFile": "Main.cs"
+}
