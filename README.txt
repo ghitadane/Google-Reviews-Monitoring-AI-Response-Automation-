@@ -108,11 +108,4 @@ TROUBLESHOOTING:
   Sheets write error      → Share the spreadsheet with the
                             service account email as Editor
  
-TEAM:
- 
-  RPA Developer : Zinedine Benmiya (z.benmiya@gmail.com)
-  Documentation : [Teammate 2] | [Teammate 3] | [Teammate 4]
-  Programme     : Business Digitalization Management — KTU
-  Course        : Intelligent Process Automation — S190B191
- 
 ════════════════════════════════════════════════
